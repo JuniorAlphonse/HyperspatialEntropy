@@ -9,5 +9,5 @@ This project will attempt to verify whether or not information transferrence is 
 
 #### Technologies
 1. Python
-2. Matplotlib
+2. Matplotlib and pyplot
 3. (pending)
